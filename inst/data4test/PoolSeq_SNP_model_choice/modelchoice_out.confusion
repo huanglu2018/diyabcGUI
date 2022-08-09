@@ -1,0 +1,10 @@
+Overall OOB prediction error (Fraction missclassified): 0.19925
+
+Class specific prediction errors:
+                1     2     3     4     5     6 class.error
+predicted 1     1554  9     11    3     183   185    0.201028
+predicted 2     8     1405  143   157   177   3      0.257792
+predicted 3     5     80    1611  30    30    23     0.0944351
+predicted 4     4     293   111   1752  75    1      0.216458
+predicted 5     206   192   41    46    1577  34     0.247615
+predicted 6     237   2     84    1     17    1710   0.16626
