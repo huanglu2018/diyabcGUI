@@ -1,0 +1,18 @@
+Copyright (c) 2019-2020 DIYABC-RF Core team
+
+DIYABC-RF Core team: François-David Collin, Ghislain Durif, Louis Raynal, 
+Mathieu Gautier, Renaud Vitalis, Eric Lombaert, Jean-Michel Marin, Arnaud Estoup
+
+Please see the included file COPYRIGHTS for per-file (or per-directory)
+details on licenses.
+
+In summary: 
+
+ - 'diyabc' (https://github.com/diyabc/diyabc) and 
+   'abcranger' (https://github.com/diyabc/abcranger) binary files, 
+   i.e. 'inst/bin/diyabc*' and 'inst/bin/abcranger*', are distributed under
+   MIT license (see 'inst/bin/README.md' and 'inst/bin/LICENSE' files).
+
+ - the rest of the 'diyabcGUI' package is distributed under GPL-3 license.
+
+Note: './' refers to `diyabcGUI` package root directory.
